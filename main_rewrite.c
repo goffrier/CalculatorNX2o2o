@@ -1,4 +1,4 @@
-//include stdio for guess what? standard input output,include cs50 for the custom get_ functions not available in normal C
+//include stdio and stdlib for guess what? standard input output
 #include <stdio.h>
 #include <stdlib.h>
 // let's multiply with goff
