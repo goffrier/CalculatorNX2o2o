@@ -19,9 +19,9 @@ long number_divide = 0;
 
  printf("2.Add\n\n");
 
- printf("3. Substract\n");
+ printf("3. Substract\n\n");
 
- printf("4. Divide\n");
+ printf("4. Divide\n\n");
 
  scanf("%d" , &menuchoice);
 
