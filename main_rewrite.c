@@ -17,7 +17,7 @@ int main(int argc, char const *argv[])
 
     printf("1. Multiply\n\n");
 
-    printf("2.Add\n\n");
+    printf("2. Add\n\n");
 
     printf("3. Substract\n");
 
