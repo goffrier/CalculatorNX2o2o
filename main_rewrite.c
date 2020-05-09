@@ -19,9 +19,9 @@ int main(int argc, char const *argv[])
 
     printf("2. Add\n\n");
 
-    printf("3. Substract\n");
+    printf("3. Substract\n\n");
 
-    printf("4. Divide\n");
+    printf("4. Divide\n\n");
 
     scanf("%d" , &menuchoice);
 
